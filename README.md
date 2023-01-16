@@ -1,9 +1,3 @@
-<div align="center";>
-  <h1>Currently work in progress projects are</h1>
-  <ul align ="center";>
-    <li><b>FullStackOpen2022 </b></li>
-    <li><b>A shell script that automatically downloads all necessary packets for FullStack development</b></li>
-  </ul>
-</div>
+<b><div>Currently focusing on FullStackOpen course and finishing the last parts</div></b>
 <br></br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaimarkalainen&theme=synthwave&show_icons=true&layout=compact" </img/></p>
+<p align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikolaimarkalainen&theme=react&show_icons=true&layout=compact" </img/></p>
