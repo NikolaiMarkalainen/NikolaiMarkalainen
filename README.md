@@ -12,7 +12,7 @@
     <p> As of now primary focus is set on expanding my knowledge in web development </p>
   </div>
 
-  <div style="display:flex; justify-content: space-around; align-items:center;">
+  <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaimarkalainen&theme=onedark" width="500" height="200"></img>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikolaimarkalainen&theme=react&show_icons=true&layout=compact"          width="400" height="200" ></img>
   </div>
