@@ -13,8 +13,10 @@
       <p> Currently student studying at Tampere University of applied sciences to become a Software engineer </p>
       <p> As of now primary focus is set on expanding my knowledge in web development </p>
     </div>
+    <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaimarkalainen&theme=onedark" width="500" height="160" align="center"></img>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikolaimarkalainen&theme=react&show_icons=true&layout=compact"          width="500" height="160" align="center"></img>
+    </div>
   <div align="center">
     <h3> Skills I have learned so far </h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
