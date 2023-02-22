@@ -13,8 +13,8 @@
   </div>
 
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaimarkalainen&theme=onedark" width="500" height="200"></img>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikolaimarkalainen&theme=react&show_icons=true&layout=compact"          width="400" height="200" ></img>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaimarkalainen&theme=onedark" width="500" height="160"></img>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikolaimarkalainen&theme=react&show_icons=true&layout=compact"          width="400" height="160" ></img>
   </div>
 
   <div align="center">
